@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Charlie Cheddar",
+      "email": "charliecheddarcheese@yahoomilk.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "name": "Beverly Bingo",
+      "email": "b_i_n_g_o_BINGO@wearebingoplayers.com",
+      "isStaff": false
+    }
+  ],
+  "customers": [],
+  "employees": [],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Kandy Korner, Clearwater",
+      "address": "123 Clearwater Way, Clearwater, FL 20567",
+      "squareft": 834
+    },
+    {
+      "id": 2,
+      "name": "Kandy Korner, Pittsburgh",
+      "address": "45 Pirates Drive, Pittsburgh, PA 79304",
+      "squareft": 423
+    },
+    {
+      "id": 3,
+      "name": "Kandy Korner, Manhattan",
+      "address": "736 21st Street, New York City, New York 34534",
+      "squareft": 590
+    },
+    {
+      "id": 4,
+      "name": "Kandy Korner, Charleston",
+      "address": "432 Swirl Street, Charleston, South Carolina 92093",
+      "squareft": 834
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Hershey's Bar",
+      "productTypeId": 3,
+      "productPricePerUnit": 1.34,
+      "productQuantity": 500
+    },
+    {
+      "id": 2,
+      "productName": "Dove Dark Chocolate Bar",
+      "productTypeId": 3,
+      "productPricePerUnit": 2,
+      "productQuantity": 500
+    },
+    {
+      "id": 3,
+      "productName": "Double Bubble Strawberry Gum",
+      "productTypeId": 2,
+      "productPricePerUnit": 0.35,
+      "productQuantity": 1000
+    },
+    {
+      "id": 4,
+      "productName": "Great Value Gobble Gum",
+      "productTypeId": 2,
+      "productPricePerUnit": 0.32,
+      "productQuantity": 1000
+    },
+    {
+      "id": 5,
+      "productName": "Grandma's Special Butterscotch Candy",
+      "productTypeId": 1,
+      "productPricePerUnit": 0.1,
+      "productQuantity": 2000
+    },
+    {
+      "id": 6,
+      "productName": "Peppermint",
+      "productTypeId": 1,
+      "productPricePerUnit": 0.15,
+      "productQuantity": 2000
+    },
+    {
+      "id": 7,
+      "productName": "Maple Bacon Soda",
+      "productTypeId": 4,
+      "productPricePerUnit": 3.43,
+      "productQuantity": 100
+    },
+    {
+      "id": 8,
+      "productName": "Mixed Ginger Beer",
+      "productTypeId": 4,
+      "productPricePerUnit": 3,
+      "productQuantity": 100
+    },
+    {
+      "productName": "Zebra Bubble Gum",
+      "productTypeId": "3",
+      "productPricePerUnit": "0.10",
+      "productQuantity": "400",
+      "id": 9
+    },
+    {
+      "productName": "Jerry's Chocolate Cherries",
+      "productTypeId": "3",
+      "productPricePerUnit": "4.67",
+      "productQuantity": "1000",
+      "id": 10
+    },
+    {
+      "productName": "A",
+      "productTypeId": "1",
+      "productPricePerUnit": "1",
+      "productQuantity": "1",
+      "id": 11
+    },
+    {
+      "productName": "M",
+      "productTypeId": "3",
+      "productPricePerUnit": "2",
+      "productQuantity": "2",
+      "id": 12
+    }
+  ],
+  "productTypes": [
+    {
+      "id": 1,
+      "productTypeName": "Hard Candy"
+    },
+    {
+      "id": 2,
+      "productTypeName": "Gum"
+    },
+    {
+      "id": 3,
+      "productTypeName": "Chocolate"
+    },
+    {
+      "id": 4,
+      "productTypeName": "Soda"
+    }
+  ],
+  "purchases": []
+}
